@@ -1,5 +1,4 @@
 
--- Inserindo cafés no cardápio
 INSERT INTO Cardapio (nome_cafe, descricao, preco_unitario) VALUES
 ('Kopi Luwak', 'Processado por civetas na Indonésia, resulta em um café raro, suave e complexo.', 150.00),
 ('Panamá Geisha', 'Famoso por suas notas florais e frutadas, similar a um chá de jasmim. Da fazenda Hacienda La Esmeralda.', 95.00),
